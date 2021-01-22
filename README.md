@@ -6,3 +6,4 @@ Tayla Rogic is a recent RMIT graduate and junior designer based in Melbourne. Sh
 
 [Hello World](https://taylarogic.github.io/TaylaRogic/HelloWorld/)
 
+[Pleasures and Sorrows of Work](https://taylarogic.github.io/TaylaRogic/PleasuresAndSorrowsOfWork/)
