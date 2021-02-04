@@ -1,3 +1,5 @@
+# Maze of Passwords
+
 ![](screenshot.png)
 ![](screenshot2.jpg)
 ![](screenshot3.jpg)
