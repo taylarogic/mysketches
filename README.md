@@ -10,4 +10,4 @@ Tayla Rogic is a recent RMIT graduate and junior designer based in Melbourne. Sh
 
 [Together In Isolation](https://taylarogic.github.io/TaylaRogic/TogetherInIsolation/)
 
-[Festival of the Photocopier] (https://taylarogic.github.io/TaylaRogic/FestivalOfThePhotocopier/)
+[Festival of the Photocopier](https://taylarogic.github.io/TaylaRogic/FestivalOfThePhotocopier/)
