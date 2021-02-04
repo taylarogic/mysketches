@@ -1,4 +1,4 @@
-![](covidposter7.png)
+
 ![](covidposters.png)
 ![](covidanimation.gif)
 
