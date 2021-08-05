@@ -1,4 +1,4 @@
-Tayla Rogic is a recent RMIT graduate and junior designer based in Melbourne. She is passionate about image, identity and futures.
+
 
 [Maze of Passwords](https://taylarogic.github.io/TaylaRogic/MazeOfPasswords/)
 
